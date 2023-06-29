@@ -60,9 +60,7 @@ footer{
 main{
     margin-top: 100px;
 }
-#pie{
-    justify-content: space-around;
-}
+
 .titulosdos{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -107,9 +105,6 @@ main{
     width: 200px;
 }
 
-.vacio{
-    padding: 100px;
-}
 
 .tables{
     width: 653.789px;
