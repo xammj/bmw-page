@@ -21,8 +21,8 @@
     text-align: center;
     font-size: 20px;
     color: #3c444d;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .subtitulos{
     font-family: 'Roboto', sans-serif;
@@ -60,7 +60,6 @@ footer{
 main{
     margin-top: 100px;
 }
-
 .titulosdos{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -78,7 +77,7 @@ main{
     font-size: 20px;
     color: #3c444d;
     margin-left: 50px;
-    margin-right: 600px;
+    margin-right: 50px;
 }
 .achetres{
     font-family: 'Roboto', sans-serif;
@@ -104,7 +103,6 @@ main{
     height: 100px;
     width: 200px;
 }
-
 
 .tables{
     width: 653.789px;
@@ -136,11 +134,11 @@ main{
     font-size: 20px;
     color: #3c444d;
     margin-left: 50px;
-    margin-right: 600px;
+    margin-right: 50px;
     font-weight: bold;
 }
 .navbaritem{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     color: white;
     text-decoration: underline;
@@ -152,8 +150,7 @@ main{
     background-color: #3c444d;
 }
 .cartasfotos{
-    margin-left: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     position: static;
     background-color: whitesmoke;
     border: solid 2px blue;
@@ -164,8 +161,7 @@ main{
     font-size: 15px;
     color: #3c444d;
     text-align: left;
-    
-    
+ 
 }
 .achecuatro{
     font-family: 'Roboto', sans-serif;
@@ -182,7 +178,17 @@ main{
     font-size: 20px;
     color: #3c444d;
     margin-left: 50px;
-    margin-right: 600px;
+    margin-right: 50px;
     margin-top: 100px;
     font-weight: bold;
+}
+.titulosocho{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 50px;
+    color: #24292e;
+    margin-top: 100px;
+    margin-bottom: -1px;
 }
