@@ -1,3 +1,12 @@
+footer {
+  margin-top: 400px;
+  margin-bottom: 50px;
+}
+
+main {
+  margin-top: 100px;
+}
+
 * {
   margin: 0 padding 0;
 }
@@ -37,11 +46,6 @@
   margin-bottom: -1px;
 }
 
-footer {
-  margin-top: 400px;
-  margin-bottom: 50px;
-}
-
 .iframexd {
   height: 100px;
   width: 150px;
@@ -64,10 +68,6 @@ footer {
 .logoredes {
   height: 40px;
   width: 20x;
-}
-
-main {
-  margin-top: 100px;
 }
 
 .titulosdos {
