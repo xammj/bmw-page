@@ -109,21 +109,21 @@
 	width: 653.789px;
 	height: 646.406;
 	border: #3c444d 5px solid;
-	margin-left: 50px;
+	margin-left: 10px;
 	margin-top: 10px;
 }
 .tablesdos {
 	width: 853.789px;
 	height: 544.062;
 	border: #3c444d 5px solid;
-	margin-left: 50px;
+	margin-left: 10px;
 	margin-top: 10px;
 }
 .tablestres {
 	width: 700px;
 	height: 200px;
 	border: #3c444d 5px solid;
-	margin-left: 50px;
+	margin-left: 10px;
 	margin-top: 10px;
 }
 .textosparatabla {
@@ -189,4 +189,8 @@
 	color: $color_1;
 	margin-top: 100px;
 	margin-bottom: -1px;
+}
+
+.img-fluid{
+    max-width: 100%;
 }
